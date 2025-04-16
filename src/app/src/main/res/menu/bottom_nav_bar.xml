@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/home_view"
+        android:icon="@drawable/home_icon"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:title="Home" />
+    <item
+        android:id="@+id/currency_view"
+        android:icon="@drawable/currency_icon"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:title="Currency" />
+    <item
+        android:id="@+id/placeholder"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:title="" />
+    <item
+        android:id="@+id/wallet_view"
+        android:icon="@drawable/wallet_icon"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:title="Wallets" />
+    <item
+        android:id="@+id/account_view"
+        android:icon="@drawable/account_icon"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:title="Account" />
+</menu>

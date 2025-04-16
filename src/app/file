@@ -1,0 +1,7 @@
+Variant: release
+Config: key_temp
+Store: C:\Users\PC\key.jks
+Alias: key_temp
+MD5: 38:2E:D1:8F:9A:5C:D0:BE:C0:C0:06:B9:60:D5:1A:B6
+SHA1: 1B:8B:3C:E9:A0:5D:4A:90:9D:71:D9:75:F9:B3:E5:9F:33:D4:A9:9F
+SHA-256: 92:53:D1:D2:6A:B5:E2:1D:46:53:34:52:5B:BF:BB:AF:4A:05:BF:FB:02:76:99:0B:1C:9B:9C:8E:E1:63:7C:77

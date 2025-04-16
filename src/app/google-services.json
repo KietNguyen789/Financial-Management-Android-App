@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "77101249103",
+    "project_id": "finotes-e0c3d",
+    "firebase_url": "https://finotes-e0c3d-default-rtdb.asia-southeast1.firebasedatabase.app/",
+    "storage_bucket": "finotes-e0c3d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:77101249103:android:d6704025d03d0bb4d8b03a",
+        "android_client_info": {
+          "package_name": "com.group08.finotes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "77101249103-7op0rqq3v0v8vqup83ig39cf09lloe2o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.grou08.finotes",
+            "certificate_hash": "1b8b3ce9a05d4a909d71d975f9b3e59f33d4a99f"
+          }
+        },
+        {
+          "client_id": "77101249103-unkqih5bl45ru0ctagtg0g3eb79rr16s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.grou08.finotes",
+            "certificate_hash": "68b3bc590d08551a0a7fbf4d7bdd046084eff532"
+          }
+        },
+        {
+          "client_id": "77101249103-n28t4h0g47gm4vbn5jia0bk5mgv3m8j6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnU0-fhYGeGHc-tb2VybRL8HhHb5DevMc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "77101249103-n28t4h0g47gm4vbn5jia0bk5mgv3m8j6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
